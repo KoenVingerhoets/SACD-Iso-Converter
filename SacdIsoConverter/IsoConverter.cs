@@ -1,4 +1,8 @@
 
+using System;
+using System.IO;
+using System.Threading.Tasks;
+
 namespace SacdIsoConverter;
 public static class IsoConverter
 {
